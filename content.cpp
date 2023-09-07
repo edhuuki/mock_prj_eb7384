@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-        cout << "alksi";
+        cout << "ojfge";
 return 0;
 }
