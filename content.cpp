@@ -3,6 +3,6 @@ using namespace std;
 
 int main() {
         cout << "mpqmr";
-        cout << "jxgpm";
+        cout << "waqpy";
 return 0;
 }
