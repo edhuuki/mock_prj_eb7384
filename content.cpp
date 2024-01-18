@@ -6,6 +6,6 @@ int main() {
         cout << "waqpy";
         cout << "jofvy";
         cout << "wgsoe";
-        cout << "efhxc";
+        cout << "tvoje";
 return 0;
 }
