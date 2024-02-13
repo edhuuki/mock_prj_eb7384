@@ -7,5 +7,6 @@ int main() {
         cout << "jofvy";
         cout << "wgsoe";
         cout << "tvoje";
+        cout << "jekrk";
 return 0;
 }
