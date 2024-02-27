@@ -8,5 +8,6 @@ int main() {
         cout << "wgsoe";
         cout << "tvoje";
         cout << "jkbyy";
+        cout << "autsy";
 return 0;
 }
